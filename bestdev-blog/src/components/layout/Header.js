@@ -10,8 +10,9 @@ function Header() {
                     <Typography
                         component="h1"
                         variant="h5"
-                        fontWeight="bold"
-                        flex={1}>
+                        fontWeight="700"
+                        flex={1}
+                    >
                         وبلاگ بهترین برنامه نویس
                     </Typography>
                     <BookIcon />
